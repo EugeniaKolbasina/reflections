@@ -22,14 +22,20 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Easy access to it.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Sharing code with colleagues would be much harder, but instead of pull 
+    requests I may simply ask colleage who is sitting next to me to check my 
+    commit :)
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I work on a complex feature or if several people work on different 
+    features, using separate branches is a good approach since the changes
+    you make can be reviewed by other people via pull request feature. If
+    I work alone on something simple, it's enough to commit everything in master
+    branch, it's more efficient.
