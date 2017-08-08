@@ -7,14 +7,14 @@ How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
     You don't need to worry about manual creation of backups for your files, which saves a good deal of time;
-    you have easy access to any version of the file, so you don't have to waste time to find differences between versions
+    you have easy access to any version of the file, so you don't have to waste time to find differences between versions.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Pros: you avoid having too many versions, you commit only if you decided to
-    Cons: you may forget to commit at the right time, you may loss the data in case of hardware/connectivity issues
+    Pros: you avoid having too many versions, you commit only if you decided to.
+    Cons: you may forget to commit at the right time, you may loss the data in case of hardware/connectivity issues.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
@@ -23,12 +23,12 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    I can see the commit ids using git log command and then use these ids to see what is the difference between files
+    I can see the commit ids using git log command and then use these ids to see what is the difference between files.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Because I always can go back and check where the bug was introduced; in the meantime, all my worked is stored safely
+    Because I always can go back and check where the bug was introduced; in the meantime, all my worked is stored safely.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
